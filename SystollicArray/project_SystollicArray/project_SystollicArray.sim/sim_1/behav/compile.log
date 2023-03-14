@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/pe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SystolicMMU
+INFO: [VRFC 10-2458] undeclared symbol reset, assumed default net type wire [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:40]
+INFO: [VRFC 10-2458] undeclared symbol reset, assumed default net type wire [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:44]
+INFO: [VRFC 10-2458] undeclared symbol reset, assumed default net type wire [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:48]
+INFO: [VRFC 10-2458] undeclared symbol reset, assumed default net type wire [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:51]
+ERROR: [VRFC 10-1243] port in_a must not be declared to be an array [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:29]
+ERROR: [VRFC 10-1243] port in_b must not be declared to be an array [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:30]
+ERROR: [VRFC 10-1243] port out_c must not be declared to be an array [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:31]
+ERROR: [VRFC 10-1040] module SystolicMMU ignored due to previous errors [D:/PROJECTS/SystollicArray/project_SystollicArray/project_SystollicArray.srcs/sources_1/new/SystolicMMU.v:25]
